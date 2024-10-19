@@ -1,1 +1,5 @@
-Мой первый проект на Хекслете
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, Hexlet!");
+    }
+}
